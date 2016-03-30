@@ -357,6 +357,7 @@ return {
   	"^(rank) (.*)$",
   	"^#(admins)$",
   	"^#(mods)$",
+  	"^(mods)$",
   	"^#(members)$"
   },
   run = run
