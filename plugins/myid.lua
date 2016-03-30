@@ -7,8 +7,6 @@ end
 return {
   patterns ={
     "^[/! #](myid)$" 
-    "^myid$" 
-    "^(myid)$" 
  }, 
   run = run 
 }
