@@ -353,6 +353,8 @@ return {
   patterns = {
   	"^#(rank) (.*) (.*)$",
   	"^#(rank) (.*)$",
+  	"^(rank) (.*) (.*)$",
+  	"^(rank) (.*)$",
   	"^#(admins)$",
   	"^#(mods)$",
   	"^#(members)$"
